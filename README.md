@@ -1,7 +1,6 @@
 
 <h1 align="center">
   <br>
-  <a href=""><img src="https://geekflare.com/wp-content/uploads/2021/10/componentsofblockchain.png" alt="None" width="100%"></a>
 
  <h1 align="center">Hi 👋, I'm Kiet1618</h1>
  <h3 align="center">A passionate Blockchain Developer from VietNam</h3>
