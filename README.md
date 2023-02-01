@@ -1,10 +1,7 @@
 
 <h1 align="center">
-  <br>
-
  <h1 align="center">Hi 👋, I'm Kiet1618</h1>
  <h3 align="center">A passionate Blockchain Developer from VietNam</h3>
-  
 </h1>
 
 
