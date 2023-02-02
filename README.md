@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://viblo.asia/](https://viblo.asia/)
 
-- 💬 Ask me about **Blockchain, Node,..**
+- 💬 Ask me about **Blockchain, web3,..**
 
 - 📫 How to reach me **ngokiet3207@gmail.com**
 
