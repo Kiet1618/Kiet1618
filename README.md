@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **Lecle VietNam**
 
-- 🌱 I’m currently learning **Blockchain, Nodejs, Golang,...**
+- 🌱 I’m currently learning **Solidity, Nodejs, Golang,...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kiet1618?tab=repositories](https://github.com/Kiet1618?tab=repositories)
 
