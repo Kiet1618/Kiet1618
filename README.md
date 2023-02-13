@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Solidity, Nodejs, DKG Wallet,...**
 
-- 👨‍💻 All of my projects are available at <a>github.com/Kiet1618</a>
+- 👨‍💻 All of my projects are available at <a src="https://github.com/Kiet1618?tab=repositories">here</a>
 
 - 💬 Ask me about **Blockchain, web3,..**
 
