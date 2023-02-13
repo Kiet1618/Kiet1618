@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiet1618&label=Profile%20views&color=0e75b6&style=flat" alt="kiet1618" /> </p>
 
-<p align="left"> <img width="90%" src="https://github-profile-trophy.vercel.app/?username=kiet1618" alt="kiet1618" /</p>
+<p align="left"> <img width="100%" src="https://github-profile-trophy.vercel.app/?username=kiet1618" alt="kiet1618" /</p>
 
 - 🔭 I’m currently working at **Lecle VietNam**
 
-- 🌱 I’m currently learning **Solidity, Nodejs, Golang,...**
+- 🌱 I’m currently learning **Solidity, Nodejs, DKG Wallet,...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kiet1618?tab=repositories](https://github.com/Kiet1618?tab=repositories)
 
