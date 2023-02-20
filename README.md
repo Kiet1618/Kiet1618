@@ -1,5 +1,10 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiet1618&label=Profile%20views&color=0e75b6&style=flat" alt="kiet1618" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiet1618&label=Profile%20views&color=0e75b6&style=flat" alt="kiet1618" /> </p>
 <h1 style="text-align:center">Blockchain Developer</h1>
+
+
+<p align="center"> 
+  <a href="https://github.com/vikashPR"><img src="https://readme-typing-svg.demolab.com?font=&color=%23F7008F&lines=Student+%2F+Developer+%2F+Athlete+;%F0%9F%9A%80+Front-End+Developer;%F0%9F%96%A5+Active+OpenSource+Contributor"></a>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiet1618&show_icons=true&locale=en&layout=compact" alt="kiet1618" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiet1618&show_icons=true&locale=en" alt="kiet1618" /></p>
