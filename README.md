@@ -1,17 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiet1618&label=Profile%20views&color=0e75b6&style=flat" alt="kiet1618" /> </p>
-
-
-
-- 🔭 I’m currently working at **Lecle VietNam**
-
-- 🌱 I’m currently learning **Solidity, Nodejs, DKG Wallet,...**
-
-- 👨‍💻 All of my projects are available at **github.com/Kiet1618**
-
-- 💬 Ask me about **Blockchain, web3,..**
-
-- 📫 How to reach me **ngokiet3207@gmail.com**
-
+<h1>Blockchain Developer</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiet1618&show_icons=true&locale=en&layout=compact" alt="kiet1618" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiet1618&show_icons=true&locale=en" alt="kiet1618" /></p>
