@@ -2,7 +2,7 @@
 
 
 
-  <h2><img src="https://readme-typing-svg.demolab.com?font=&color=%23F7008F&lines=Student+%2F+Developer+;%F0%9F%9A%80+Blockchain+Developer;%F0%9F%96%A5+Active+OpenSource+Contributor"></h2>
+  <h2><img src="https://readme-typing-svg.demolab.com?font=&color=%FFFFFF&lines=Student+%2F+Developer+;%F0%9F%9A%80+Blockchain+Developer;%F0%9F%96%A5+Active+OpenSource+Contributor"></h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiet1618&show_icons=true&locale=en&layout=compact" alt="kiet1618" /></p>
 
