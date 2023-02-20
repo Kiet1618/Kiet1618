@@ -1,8 +1,10 @@
+  
+  
+
+  <h2><img src="https://readme-typing-svg.demolab.com?font=&color=%FFFFFF&lines=%F0%9F%91%A4+Student+%2F+Developer+;%F0%9F%9A%80+Blockchain+Developer;%F0%9F%8F%A2+Currently+working at+Lecle"></h2>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiet1618&label=Profile%20views&color=0e75b6&style=flat" alt="kiet1618" /> </p>
 
 
-
-  <h2><img src="https://readme-typing-svg.demolab.com?font=&color=%FFFFFF&lines=%F0%9F%91%A4+Student+%2F+Developer+;%F0%9F%9A%80+Blockchain+Developer;%F0%9F%8F%A2+Currently+working at+Lecle"></h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiet1618&show_icons=true&locale=en&layout=compact" alt="kiet1618" /></p>
 
