@@ -1,5 +1,3 @@
-<h3 align="center">A passionate Blockchain Developer from VietNam</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiet1618&label=Profile%20views&color=0e75b6&style=flat" alt="kiet1618" /> </p>
 
 
