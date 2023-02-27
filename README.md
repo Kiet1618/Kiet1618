@@ -1,5 +1,5 @@
   
-  <h1 align="center" ><img src="https://readme-typing-svg.demolab.com?font=&color=%"808080"&lines=%F0%9F%9A%80+Blockchain+Developer;%F0%9F%91%A4+3rd+year+student at+UIT;%F0%9F%8F%A2+Currently+working at+Lecle"></h1>
+  <h1 align="center" ><img src="https://readme-typing-svg.demolab.com?font=&color=%'808080'&lines=%F0%9F%9A%80+Blockchain+Developer;%F0%9F%91%A4+3rd+year+student at+UIT;%F0%9F%8F%A2+Currently+working at+Lecle"></h1>
   
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiet1618&label=Profile%20views&color=0e75b6&style=flat" alt="kiet1618" /> </p>
 
