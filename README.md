@@ -6,7 +6,7 @@
 
 <p> <img align = 'center' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiet1618&theme=github" /></p>
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kiet1618&theme=github&exclude=default" alt="kiet1618" /></p>
-<p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kiet1618&theme=github&exclude=default" alt="kiet1618" /></p>
+<p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kiet1618&theme=github" alt="kiet1618" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiet1618&show_icons=true&locale=en" alt="kiet1618" /></p>
 
