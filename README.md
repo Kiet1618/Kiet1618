@@ -4,7 +4,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiet1618&label=Profile%20views&color=0e75b6&style=flat" alt="kiet1618" /> </p>
 
 
-<p> <img align = 'center' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiet1618&theme=github" /></p>
+<p> <img align = 'center' src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kiet1618&theme=github&exclude=default" /></p>
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kiet1618&theme=github&exclude=default" alt="kiet1618" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiet1618&show_icons=true&locale=en" alt="kiet1618" /></p>
