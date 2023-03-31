@@ -5,7 +5,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiet1618&show_icons=true&locale=en&layout=compact" alt="kiet1618" /></p>
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kiet1618&theme=github&exclude=default" alt="kiet1618" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiet1618&show_icons=true&locale=en" alt="kiet1618" /></p>
 
