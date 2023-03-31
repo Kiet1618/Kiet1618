@@ -1,8 +1,5 @@
   
   <h1 align="center" ><img src="https://readme-typing-svg.demolab.com?font=&color=%'808080'&lines=Hi, I'am Kiet1618;%F0%9F%9A%80+Blockchain+Developer;3rd+year+student at+UIT;"></h1>
-  
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiet1618&label=Profile%20views&color=0e75b6&style=flat" alt="kiet1618" /> </p>
-
 
 <p> <img align = 'center' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiet1618&theme=github" /></p>
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kiet1618&theme=github&exclude=default" alt="kiet1618" /></p>
