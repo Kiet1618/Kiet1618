@@ -2,8 +2,8 @@
   <h1 align="center" ><img src="https://readme-typing-svg.demolab.com?font=&color=%'808080'&lines=Hi, I'am Kiet1618;%F0%9F%9A%80+Blockchain+Developer;3rd+year+student at+UIT;"></h1>
 
 <p> <img align = 'center' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiet1618&theme=github" /></p>
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kiet1618&theme=github&exclude=default" alt="kiet1618" /></p>
-<p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kiet1618&theme=github" alt="kiet1618" /></p>
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kiet1618&theme=github&exclude=default" alt="kiet1618" /></p>
+<p>&nbsp;<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kiet1618&theme=github" alt="kiet1618" /></p>
 
 
 # 💻 Tech Stack:
