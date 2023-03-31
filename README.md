@@ -1,5 +1,5 @@
   
-  <h1 align="center" ><img src="https://readme-typing-svg.demolab.com?font=&color=%'008000'&lines=Hi 👋, I'm Kiet Tran;%F0%9F%9A%80+Blockchain+Developer;%F0%9F%8E%93 Student of+UIT;"></h1>
+  <h1 align="center" ><img src="https://readme-typing-svg.demolab.com?font=&color=%'008000'&lines=Hi 👋, I'm Kiet Tran!;%F0%9F%9A%80+Blockchain+Developer;%F0%9F%8E%93 Student of+UIT;"></h1>
 
 <p> <img align = 'center' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiet1618&theme=github" /></p>
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kiet1618&theme=github&exclude=default" alt="kiet1618" /></p>
